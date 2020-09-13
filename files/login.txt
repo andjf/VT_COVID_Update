@@ -1,0 +1,3 @@
+emailOfSender@host.com
+PasswordOfSender
+emailToNotify@host.com

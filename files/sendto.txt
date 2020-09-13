@@ -1,0 +1,10 @@
+email1@host.com
+email2@host.com
+email3@host.com
+email4@host.com
+email5@host.com
+email6@host.com
+email7@host.com
+.
+.
+. (get rid of dots)
